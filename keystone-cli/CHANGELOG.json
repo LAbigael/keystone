@@ -1,0 +1,22 @@
+{
+  "name": "@keystone/cli",
+  "entries": [
+    {
+      "version": "0.0.2",
+      "tag": "@keystone/cli_v0.0.2",
+      "date": "Thu, 02 Jan 2020 16:16:01 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "update readme"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@keystone/core\" from `~0.0.1` to `~0.0.2`"
+          }
+        ]
+      }
+    }
+  ]
+}

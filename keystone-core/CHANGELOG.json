@@ -1,0 +1,17 @@
+{
+  "name": "@keystone/core",
+  "entries": [
+    {
+      "version": "0.0.2",
+      "tag": "@keystone/core_v0.0.2",
+      "date": "Thu, 02 Jan 2020 16:16:01 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "update readme"
+          }
+        ]
+      }
+    }
+  ]
+}
