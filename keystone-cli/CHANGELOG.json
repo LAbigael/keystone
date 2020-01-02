@@ -1,0 +1,25 @@
+{
+  "name": "@ks/cli",
+  "entries": [
+    {
+      "version": "0.0.2",
+      "tag": "@ks/cli_v0.0.2",
+      "date": "Thu, 02 Jan 2020 16:48:08 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "update readme"
+          },
+          {
+            "comment": "rename scope from @keystone to @ks"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@ks/core\" from `~0.0.1` to `~0.0.2`"
+          }
+        ]
+      }
+    }
+  ]
+}
